@@ -21,6 +21,7 @@ class Student{
         this.name = name;
     }
 }
+
 var newStudent = new Student("Andrew");
 
 newStudentArray = studentArray.map(function(element){
